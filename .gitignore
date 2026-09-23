@@ -1,0 +1,15 @@
+# 编译输出
+bin/
+*.exe
+*.pdb
+
+# IDE / 用户文件
+.vs/
+*.user
+*.suo
+*.cache
+
+# 临时文件
+*.tmp
+*.log
+Thumbs.db
