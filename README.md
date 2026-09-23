@@ -39,7 +39,7 @@ Windows 防火墙基于 BFE（Base Filtering Engine），在内核态（WFP，Wi
 
 ### 方式一：使用预编译版本（Release）
 
-从 [Releases](https://github.com/你的用户名/DirNetBlock/releases) 下载最新版压缩包，解压后右键 `DirNetBlock.exe` → **以管理员身份运行**。
+从 [Releases](https://github.com/sunrise010605/DirNetBlock/releases) 下载最新版压缩包，解压后右键 `DirNetBlock.exe` → **以管理员身份运行**。
 
 ### 方式二：自行编译
 
